@@ -1,0 +1,14 @@
+{
+  "auc_xgb": 0.7901481751135919,
+  "avg_precision": 0.21227396381784513,
+  "f1_escalating": 0.039711191335740074,
+  "risk_threshold": 0.3,
+  "decision_threshold": 0.4,
+  "n_test": 6007,
+  "positive_rate": 0.08540036623938738,
+  "auc_bilstm": 0.7731545128511657,
+  "n_interventions": 3,
+  "mean_delta_val": -0.1960296144043676,
+  "pct_delta_positive": 0.3333333333333333,
+  "mean_ai_valence": -0.5795439185549481
+}

@@ -1,0 +1,15 @@
+feature,mean_abs_shap
+u_val_std,0.5612832
+u_aro_mean,0.33458778
+a_val_mean,0.2698897
+a_len_mean,0.22786604
+u_val_last,0.11939041
+u_aro_last,0.111638494
+u_val_delta,0.10134852
+u_val_slope,0.09881741
+u_dom_mean,0.09103153
+n_turns,0.08327098
+u_val_mean,0.070202015
+a_apology_rate,0.039901257
+a_hedge_rate,0.030735552
+a_refusal_rate,0.010466324

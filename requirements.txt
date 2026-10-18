@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+pyarrow
+
+# Modelling
+xgboost>=2.0
+shap
+torch
+transformers>=4.40
+accelerate
+sentencepiece
+bitsandbytes>=0.46.1
+
+# Dimensionality reduction
+umap-learn
+
+# Data
+datasets
+
+# UI
+streamlit>=1.30
+pyngrok
+
+# Notebook utilities
+tqdm
+ipywidgets

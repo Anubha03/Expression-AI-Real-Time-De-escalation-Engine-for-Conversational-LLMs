@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1-Score,Support
+not-escalating,0.916,0.995,0.954,5494
+escalating,0.268,0.021,0.04,513
+macro avg,0.592,0.508,0.497,6007
+weighted avg,0.861,0.911,0.876,6007
