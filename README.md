@@ -128,3 +128,9 @@ paired *t*-test *p* < 0.05.
 - GoEmotions (Demszky et al., ACL 2020)
 - Mistral AI for the open-weight 7B-Instruct model
 - SHAP (Lundberg & Lee, NeurIPS 2017)
+
+## Project report
+
+[Read the project report (PDF)](reports/Expression_AI_Report.pdf)
+
+[Presentation slides](presentations/Expression_AI_Presentation.pptx)
